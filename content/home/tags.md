@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Mei's Slide Decks 👩🏼‍🏫
-subtitle: An example of writing _open_ slides with Markdown
+title: 朝雾达哉先生的学术演说
+subtitle: 一位热爱电子技术和业余无线电的技术宅
 
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
@@ -26,4 +26,4 @@ design:
     padding: ['2rem', 0, '2rem', 0]
 ---
 
-Check out my recent decks below or choose a topic to explore ✨
+看看我最近的学术演说内容吧
